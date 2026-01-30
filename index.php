@@ -31,6 +31,7 @@ include "/opt/lampp/htdocs/app_wisata/koneksi.php";
     </div>
 
     <h1>Hello World</h1>
+    <p>Hallo, selamat pagi</p>
 
     <div class="containt-top">
         <div class="top-content">
