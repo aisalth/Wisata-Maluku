@@ -44,7 +44,7 @@ include "/opt/lampp/htdocs/app_wisata/koneksi.php";
         </div>
     </div>
 
-    <h2>Ini contoh aja</h2>
+    <h2>Ini tambahan baru</h2>
 
     <div class="stats-section">
         <div class="stats">
