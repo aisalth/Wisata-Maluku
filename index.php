@@ -30,6 +30,9 @@ include "/opt/lampp/htdocs/app_wisata/koneksi.php";
         </div>
     </div>
 
+    <h1>Hello World</h1>
+    <p>Hallo, selamat pagi</p>
+
     <div class="containt-top">
         <div class="top-content">
             <div class="back">
@@ -44,7 +47,7 @@ include "/opt/lampp/htdocs/app_wisata/koneksi.php";
         </div>
     </div>
 
-    <h2>Ini contoh aja</h2>
+    <h2>Ini tambahan baru</h2>
 
     <div class="stats-section">
         <div class="stats">
